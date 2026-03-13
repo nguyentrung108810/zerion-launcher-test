@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "modpack.zip",
+      "url": "https://example.com/modpack.zip"
+    }
+  ]
+}
